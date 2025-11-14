@@ -49,9 +49,6 @@ src/
 │── App.css
 │── main.jsx
 
-yaml
-Copy code
-
 ---
 
 ## How the Application Works
